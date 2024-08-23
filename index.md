@@ -13,15 +13,18 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### This is header 3
 
 - Bulleted
 - List
+- This is bullet point 3
 
 1. Numbered
 2. List
+3. This is number 3
 
 **Bold** and _Italic_ and `Code` text
+This is **BOLD** and this is _Italic_ *Italic*
 
 [Link](url) and ![Image](src)
 ```
