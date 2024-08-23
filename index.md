@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# Alex Li's First CS193 Homework
+
+My favorite things about CS 193: 
+- The people teaching it!!
+- My friends in the class
+- Very useful and applicable to my future
+- The smell of CS majors (I'm kidding it smells bad)
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,18 +21,15 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### This is header 3
+### Header 3
 
 - Bulleted
 - List
-- This is bullet point 3
 
 1. Numbered
 2. List
-3. This is number 3
 
 **Bold** and _Italic_ and `Code` text
-This is **BOLD** and this is _Italic_ *Italic*
 
 [Link](url) and ![Image](src)
 ```
